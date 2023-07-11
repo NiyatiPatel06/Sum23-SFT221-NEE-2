@@ -1,6 +1,8 @@
 # Sum23-SFT221-NEE-2
 Project for Software for Group 1
+
 Project Description
+
 You have been hired by a local delivery company that has three different trucks that deliver on three different routes in your part of the city. The map of your city is represented as a 25 by 25 square grid as shown in the diagram below. Our offices are located in square 1A. From that location, our three different delivery vans start out initially on a common path and then branch out to cover different parts of the neighborhood. The paths taken by our delivery trucks are shown in blue, yellow, and green. Initially, all trucks start out and follow the blue path and then the green and yellow trucks branch off from the path taken by the blue trucks. The black rectangles represent buildings to which packages can be delivered. The white areas are empty spaces and the blue, yellow, and green areas represent the paths taken by our three delivery trucks. All addresses are specified in terms of the row number and column letter to which a package should be delivered. All our trucks are the same size and can hold up to 1000 kilograms of cargo. The trucks are also capable of carrying 36 cubic meters of boxes. The boxes that we use for shipping come in 1/4 cubic meter, 1/2 cubic meter, and 1 cubic meter sizes. All our boxes are square, meaning that they have the same dimensions on all sides.
 
 When a customer comes in with a shipment, they specify:
