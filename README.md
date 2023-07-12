@@ -1,5 +1,5 @@
 # Sum23-SFT221-NEE-2
-Project for Software for Group 1
+Project for Software for Group 2
 
 Project Description
 
