@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ifndef SDDS_TEST_H
 #define SDDS_TEST_H
 
@@ -97,3 +98,49 @@ namespace sdds {
 }
 #endif�//�!SDDS_TEST_H
 >>>>>>> origin/main
+=======
+#ifndef SDDS_TEST_H
+
+#define SDDS_TEST_H
+
+
+namespace sdds {
+
+	const int MAX_WEIGHT = 1000; 
+
+	const int MAX_VOLUME = 36; 
+
+
+
+	struct TruckRoute {
+
+		double minDistance;
+
+		struct Route bestRoute;
+
+	};
+
+	struct TruckCapacity {
+
+		int volumeLeft;
+
+		double weightLeft;
+
+	};
+
+	struct Shipment {
+
+
+		double weight;
+
+		double box; 
+
+		int row; 
+
+		char column; 
+
+	};
+
+}
+#endif�//�!SDDS_TEST_H
+>>>>>>> 9c9eaae5d6f27e42df4f1a4365ed791ec58b1748
